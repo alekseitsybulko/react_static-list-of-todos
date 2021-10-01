@@ -1,0 +1,2 @@
+body{margin:0 auto}.App{align-items:center;text-align:center}.App,.list{display:flex;flex-direction:column}.list{justify-content:center;padding:20px}.list__item{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;background-color:#f59e1c;margin-bottom:3px;border:2px solid red;border-radius:10px}.list__item--active{background-color:#4aba04}.list__item:hover{background-color:#ffc400}.list__item--active:hover{background-color:#02d202}
+/*# sourceMappingURL=main.77105a65.chunk.css.map */
